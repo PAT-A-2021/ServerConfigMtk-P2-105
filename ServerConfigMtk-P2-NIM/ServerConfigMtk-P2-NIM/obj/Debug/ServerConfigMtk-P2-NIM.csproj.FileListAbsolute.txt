@@ -1,0 +1,10 @@
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServerConfigMtk-P2-NIM.exe.config
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServerConfigMtk-P2-NIM.exe
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServerConfigMtk-P2-NIM.pdb
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\obj\Debug\ServerConfigMtk-P2-NIM.csproj.AssemblyReference.cache
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\obj\Debug\ServerConfigMtk-P2-NIM.csproj.CoreCompileInputs.cache
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\obj\Debug\ServerConfigMtk-P2-NIM.exe
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\obj\Debug\ServerConfigMtk-P2-NIM.pdb
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServiceMtk_P1_NIM.dll
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServiceMtk_P1_NIM.pdb
+C:\Users\pahle\Documents\Semester 5\PAT (WCF) Sem 5\ServerConfigMtk-P2-NIM\ServerConfigMtk-P2-NIM\bin\Debug\ServiceMtk_P1_NIM.dll.config
